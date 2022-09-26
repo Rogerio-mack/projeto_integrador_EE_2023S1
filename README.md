@@ -13,3 +13,8 @@
 . Leonardo Dantas da Silva Cunha
 . Roberta Peralta
 
+Professores
+
+. Rogério de Oliveira 
+. Orlando Yesid Sparza
+
